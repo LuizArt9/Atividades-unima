@@ -12,4 +12,4 @@ def convert(deci):
     return bin
 
 print("os números convertidos são 32, 57, 101 e 77")
-print(convert(32), convert(57), convert(101), convert(77), sep="")
+print(convert(32), convert(57), convert(101), convert(77), sep="\n")
